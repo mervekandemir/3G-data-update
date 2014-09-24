@@ -1,0 +1,5 @@
+maximumTransmissionPower;455
+maximumTransmissionPower;441
+maximumTransmissionPower;453
+maximumTransmissionPower;426
+maximumTransmissionPower;457
