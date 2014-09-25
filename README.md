@@ -20,5 +20,5 @@ SAHALAR.TXT --> MOBV61
 Dosya formatları bu şekilde olmalıdır. Aralarındaki ';' işaret onun .csv uzantılı dosya olduğunun göstergesidir.
 
 Elinizdeki excel dosyasını csv formatında kaydettikten sonra programı çalıştırmanız gerekmektedir.
-A
-ksi halde program çalışmayacaktır.
+
+Aksi halde program çalışmayacaktır.
