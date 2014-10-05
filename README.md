@@ -21,4 +21,4 @@ Dosya formatları bu şekilde olmalıdır. Aralarındaki ';' işaret onun .csv u
 
 Elinizdeki excel dosyasını csv formatında kaydettikten sonra programı çalıştırmanız gerekmektedir.
 
-Aksi halde program çalışmayacaktır.
+
